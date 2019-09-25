@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func printName() {
 	var name string = "Prasanjit Pattanaik"
 	fmt.Println(len(name))
 }

@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func sum() {
 	x := 5
 	y := 2
 	sum := x + y

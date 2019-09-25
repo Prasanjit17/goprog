@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func varK() {
 	var x int
 	var z int
 	z = 8
